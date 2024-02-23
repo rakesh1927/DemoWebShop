@@ -1,0 +1,3 @@
+11:12:02.889 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+11:12:03.488 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on register..
+11:12:03.488 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
